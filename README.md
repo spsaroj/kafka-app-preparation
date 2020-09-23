@@ -82,3 +82,6 @@ Open a new Powershell in the bin folder again and run:
 ``` .\windows\kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic <topic-name> --from-beginning```
 
 This will display all the messages received from producer from the beginning.
+
+### How it looks:
+![screen capture](https://raw.githubusercontent.com/spsaroj/kafka-app-preparation/master/kafka-installation.PNG)
